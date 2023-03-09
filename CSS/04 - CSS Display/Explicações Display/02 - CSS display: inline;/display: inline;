@@ -1,0 +1,82 @@
+Inglês: Display: Inline;
+
+The inline element neither starts with a new line nor takes the entire length of the line. It starts from the point where the previous element ended and occupies the minimum space that is required.
+
+We cannot control whe width of inline elements.
+
+Some inline elements are:
+
+<span>
+<select>
+<button>
+<i>
+<samp>
+<img>
+<br>
+<map>
+<acronym>
+<sub>
+<object>
+<var>
+<a>
+<output>
+<script>
+<sup>
+<time>
+<abbr>
+<textarea>
+<label>
+<input>
+<cite>
+<kbd>
+<em>
+<bdo>
+<big>
+<b>
+<small>
+<dfn>
+<strong>
+<code>
+
+
+
+Português: Exibição: Em linha;
+
+O elemento inline não começa com uma nova linha nem ocupa todo o comprimento da linha. Começa no ponto onde terminou o elemento anterior e ocupa o espaço mínimo necessário.
+
+Não podemos controlar a largura dos elementos embutidos.
+
+Alguns elementos inline são:
+
+<período>
+<selecionar>
+<botão>
+<i>
+<samp>
+<img>
+<br>
+<mapa>
+<acrônimo>
+<sub>
+<objeto>
+<var>
+<a>
+<saída>
+<script>
+<sup>
+<tempo>
+<abbr>
+<área de texto>
+<rótulo>
+<entrada>
+<cite>
+<kbd>
+<em>
+<bdo>
+<grande>
+<b>
+<pequeno>
+<dfn>
+<forte>
+<código>
+

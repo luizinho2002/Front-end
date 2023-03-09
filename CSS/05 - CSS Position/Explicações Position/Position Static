@@ -1,0 +1,8 @@
+Inglês: Position: Static
+
+The static position is by default the position of an HTML element and It positions the element according to the normal flow of the page. Therefore top, bottom, lefet, right and the z-index property has no effect on it.
+
+Português: Posição: Estático
+
+A posição estática é por padrão a posição de um elemento HTML e posiciona o elemento de acordo com o fluxo normal da página. Portanto, superior, inferior, esquerdo, direito e a propriedade z-index não tem efeito sobre ele.
+

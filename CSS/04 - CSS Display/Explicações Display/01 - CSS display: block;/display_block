@@ -1,0 +1,63 @@
+Inglês : Display Property in CSS / Web Development
+
+Display: block;
+
+The block property is used to display an element as a block element that starts with a new line and covers the entire length of the line from left to right.
+
+We can also set and change the width of the block element.
+
+Some block-level elements are:
+
+<div>
+<main>
+<header>
+<footer>
+<article>
+<figure>
+<noscript>
+<address>
+<video>
+<section>
+<table>
+<tfoot>
+<nav>
+<ul>
+<ol>
+<hr>
+<pre>
+<p>
+<li>
+<aside>
+
+Português : Propriedade de exibição em CSS/Desenvolvimento Web
+
+Exibição: bloco;
+
+A propriedade block é usada para exibir um elemento como um elemento de bloco que começa com uma nova linha e cobre todo o comprimento da linha da esquerda para a direita.
+
+Também podemos definir e alterar a largura do elemento de bloco.
+
+Alguns elementos de nível de bloco são:
+
+<div>
+<principal>
+<cabeçalho>
+<rodapé>
+<artigo>
+<figura>
+<noscript>
+<endereço>
+<vídeo>
+<seção>
+<tabela>
+<pé>
+<nav>
+<ul>
+<ol>
+<hr>
+<pré>
+<p>
+<li>
+<à parte>
+
+

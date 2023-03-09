@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,700;1,900&family=Tilt+Neon&display=swap');
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+#container1 {
+	display: block;
+	height: 100px;
+	background-color: #ffffa0;
+}
+
+#container2 {
+	display: none;
+	height: 100px;
+	background-color: #ffa0ff;
+}
+
+#container3 {
+	display: block;
+	height: 100px;
+	background-color: #a0ffff;
+}

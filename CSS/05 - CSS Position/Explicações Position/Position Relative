@@ -1,0 +1,10 @@
+Inglês: Position: Relative
+
+The relative position is positioned according to the normal flow of the document. It sets the position of the element relative to its original position and the top, bottom, left and right properties can affect the position of the element.
+
+If the position of the element changes then it leaves a gap at the initial position. but other elements do not have any effect due to this.
+
+
+Português: Posição: Parente
+
+A posição relativa é posicionada de acordo com o fluxo normal do documento. Ele define a posição do elemento em relação à sua posição original e as propriedades superior, inferior, esquerda e direita podem afetar a posição do elemento.

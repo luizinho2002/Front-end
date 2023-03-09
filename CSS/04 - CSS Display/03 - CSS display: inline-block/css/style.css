@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,700;1,900&family=Tilt+Neon&display=swap');
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+#container1 {
+	/* border: 1px solid red; */
+	height: 65px;
+	width: 200px;
+	padding: 20px;
+	margin: 10px;
+	/* display inline */
+	/* display block */
+	display: inline-block;
+	
+}
+
+#container2 {
+	/* border: 1px solid red; */
+	height: 65px;
+	width: 200px;
+	padding: 20px;
+	margin: 10px;
+	/* display inline */
+	/* display block */
+	display: inline-block;
+}
+
+#container3 {
+	/* border: 1px solid red; */
+	height: 65px;
+	width: 200px;
+	padding: 20px;
+	margin: 10px;
+	/* display inline */
+	/* display block */
+	display: inline-block;
+}

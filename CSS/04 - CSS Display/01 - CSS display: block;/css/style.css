@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,700;1,900&family=Tilt+Neon&display=swap');
+
+body {
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+}
+
+#container1 {
+	border: 1px solid red;
+	/* width: 200px; */
+	height: 200px;
+	padding: 50px;
+}
+
+
+#container2 {
+	display: block;
+	border: 1px solid red;
+	/* width: 200px; */
+	height: 200px;
+	padding: 50px;
+}
+
+#container3 {
+	display: block;
+	border: 1px solid red;
+	/* width: 200px; */
+	height: 200px;
+	padding: 50px;
+}

@@ -1,0 +1,20 @@
+/* em VS rem */
+
+/* em --> relativo a classe pai */
+/* rem ->> relativo sempre ao body */
+
+body {
+	font-size: 14px;
+}
+
+div {
+	font-size: 1.2rem;
+	/* primeiro --> 14 * 1.2 = 16,8px */
+	/* segundo elemento --> 16,8 * 1,2 = 20,16 */
+}
+
+/* media query */
+
+body {
+	font-size: 16px;
+}

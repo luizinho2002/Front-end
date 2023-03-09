@@ -1,0 +1,16 @@
+Inglẽs: Position: Fixed
+
+When we position an element to Fixed. It is removed from the normal flow of the document and no space is created fot the element in the page layout.
+
+It is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled. Basically, it is fixed on the webpage.
+
+The position of the element can be changed using top, bottom, left, and right properties.
+
+Português: Posição: Fixo
+
+Quando posicionamos um elemento para Fixo. Ele é removido do fluxo normal do documento e nenhum espaço é criado para o elemento no layout da página.
+
+Ele é posicionado em relação à viewport, o que significa que sempre permanece no mesmo lugar, mesmo que a página seja rolada. Basicamente, é corrigido na página da web.
+
+A posição do elemento pode ser alterada usando as propriedades superior, inferior, esquerda e direita.
+
