@@ -15,6 +15,9 @@ CORES
 background: #EBEBEB;
 cinza claro: #E4E4E4;
 cinza inputs: #818181;
+facebook: #375c98;
+mail: #C54F33;
+twitter: #4dadf2;
 
 */
 
@@ -77,4 +80,30 @@ a {
 	text-align: right;
 	color: red;
 	text-decoration: none;
+}
+
+form p {
+	color: #818181;
+	text-align: center;
+}
+
+form .social-media-container {
+	margin: 20px auto;
+	width: fit-content;
+}
+
+form .social-media-container .icon-container {
+	background: #375c98;
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	position: relative;
+}
+
+form .social-media-container .icon-container svg {
+	position: absolute;
+	top: calc(50% - 12px);
+	left: calc(50% - 12px);
+	color: white;
 }
