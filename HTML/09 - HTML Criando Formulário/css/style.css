@@ -33,3 +33,9 @@ form .input-container {
 	position: relative;
 	margin-bottom: 15px;
 }
+
+form .input-container input, input[type="submit"] {
+	width: 100%;
+	height: 45px;
+	border-radius: 20px;
+}
