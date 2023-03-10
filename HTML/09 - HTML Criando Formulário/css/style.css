@@ -72,3 +72,14 @@ form .input-container svg {
 	display: inline-block;
 	width: 50%;
 }
+
+a {
+	text-align: right;
+	color: red;
+	text-decoration: none;
+}
+
+form p {
+	color: #818181;
+	text-align: center;
+}
