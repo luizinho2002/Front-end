@@ -54,6 +54,13 @@ form input[type="submit"] {
 	margin-bottom: 20px;
 }
 
+form .input-container input {
+	border: 1px solid #E4E4E4;
+	color: #818181;
+	padding: 0 55px 0 25px;
+	font-size: 1rem;
+}
+
 form .input-container input::placeholder {
 	color: #818181;
 }
@@ -88,8 +95,8 @@ form p {
 }
 
 form .social-media-container {
-	margin: 20px auto;
-	width: fit-content;
+    margin: 20px auto;
+    width: fit-content;
 }
 
 form .social-media-container .icon-container {
@@ -101,9 +108,26 @@ form .social-media-container .icon-container {
 	position: relative;
 }
 
+form .social-media-container .icon-container:nth-child(2) {
+	background: #C54F33;
+}
+
+form .social-media-container .icon-container:nth-child(3) {
+	background: #4dadf2;
+}
+
 form .social-media-container .icon-container svg {
 	position: absolute;
 	top: calc(50% - 12px);
 	left: calc(50% - 12px);
 	color: white;
+}
+
+hr {
+	color: #818181;
+}
+
+.footer {
+	width: fit-content;
+	margin: 20px auto;
 }
