@@ -2,7 +2,9 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
+	background: #EBEBEB;
 }
+
 
 /* 
 
@@ -10,3 +12,24 @@ CORES
 background: #EBEBEB;
 cinza claro: #E4E4E4;
 cinza inputs: #818181;
+
+*/
+
+.form-container {
+	background: white;
+	margin: 150px auto;
+	width: 400px;
+}
+
+form {
+	padding: 20px;
+}
+
+form h3 {
+	text-align: center;
+}
+
+form .input-container {
+	position: relative;
+	margin-bottom: 15px;
+}
