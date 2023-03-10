@@ -96,7 +96,7 @@ form p {
 
 form .social-media-container {
     margin: 20px auto;
-    width: fit-content;
+    text-align: center;
 }
 
 form .social-media-container .icon-container {
